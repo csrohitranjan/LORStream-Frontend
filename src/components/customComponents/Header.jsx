@@ -6,7 +6,7 @@ export function Header() {
     <header className="bg-gray-900 py-4" id="header">
       <div className="container flex items-center justify-between px-4">
         <Link to="/" className="flex items-center space-x-2 text-gray-50">
-          <span className="font-semibold uppercase">College Erp</span>
+          <span className="font-semibold">LORStream</span>
         </Link>
         <div className="flex items-center space-x-4">
           <Link to="login">
